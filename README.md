@@ -30,13 +30,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="">
-        <img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/><br>
-        Facebook
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/Sahil Bulbule">
+      <a href="https://www.linkedin.com/in/Sahil Bulbule">
         <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/><br>
         LinkedIn
       </a>
