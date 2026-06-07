@@ -24,13 +24,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://instagram.com/__s_a_h_i_i_l__">
+      <a href="https://instagram.com/_sah_._eel_">
         <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/><br>
         Instagram
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/Sahil Bulbule">
+      <a href="https://www.linkedin.com/in/Sahil-Bulbule">
         <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/><br>
         LinkedIn
       </a>
