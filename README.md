@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+☀️,+I'm+Sahil;💻+Passionate+Frontend+Developer;🐍+Python+Backend+Developer;🤖+Exploring+AI+%26+ML+Enthusiast;🚀+Crafting+My+Tech+Career" />
-</h1>
+</h1>   
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=🚀%20Code%20•%20Create%20•%20Innovate%20🚀&fontSize=22&fontAlign=50&fontAlignY=40&color=0:00F7FF,25:1E90FF,50:8A2BE2,75:FF00FF,100:00F7FF&fontColor=ffffff&animation=fadeIn&font=Orbitron" />
 </p>
