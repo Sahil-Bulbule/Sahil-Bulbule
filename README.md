@@ -98,36 +98,108 @@
 <!--==================== FEATURED PROJECTS ====================-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&text=🚀%20FEATURED%20PROJECTS%20🚀&fontSize=30&fontAlignY=42&animation=fadeIn&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=🚀%20FEATURED%20PROJECTS%20🚀&fontSize=30&fontAlignY=42&animation=fadeIn&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule/RETAIN---IQ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Bulbule&repo=RETAIN---IQ&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
+<div align="center">
 
-  <a href="https://github.com/Sahil-Bulbule/INTRUSION---X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Bulbule&repo=INTRUSION---X&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule/NEO---INSPECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Bulbule&repo=NEO---INSPECT&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
+<td width="50%" align="center">
 
-  <a href="https://github.com/Sahil-Bulbule/CANCER-PREDICTOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Bulbule&repo=CANCER-PREDICTOR&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-</p>
+## 🤖 RETAIN IQ
 
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule/HEART-DISEASE-RISK-PREDICTOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Bulbule&repo=HEART-DISEASE-RISK-PREDICTOR&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
+🧠 **AI Resume Analyzer**
 
-  <a href="https://github.com/Sahil-Bulbule/CAR-RECOMMENDATION-WEB-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Bulbule&repo=CAR-RECOMMENDATION-WEB-APP&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-</p>
+✨ LLM • Gemini API • NLP • RAG
+
+<a href="https://github.com/Sahil-Bulbule/RETAIN---IQ">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+## 🛡️ INTRUSION-X
+
+🚨 **Network Intrusion Detection**
+
+⚡ RNN • LSTM • GRU • TensorFlow
+
+<a href="https://github.com/Sahil-Bulbule/INTRUSION---X">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🔍 NEO INSPECT
+
+🧾 **Smart Inspection System**
+
+🤖 AI • Computer Vision • Automation
+
+<a href="https://github.com/Sahil-Bulbule/NEO---INSPECT">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+## 🎗️ CANCER PREDICTOR
+
+🩺 **Disease Prediction Model**
+
+🧠 Machine Learning • Healthcare AI
+
+<a href="https://github.com/Sahil-Bulbule/CANCER-PREDICTOR">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## ❤️ HEART DISEASE
+
+💓 **Risk Prediction System**
+
+📊 Machine Learning • Data Analytics
+
+<a href="https://github.com/Sahil-Bulbule/HEART-DISEASE-RISK-PREDICTOR">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+## 🚗 CAR RECOMMENDATION
+
+🚘 **AI Recommendation System**
+
+📈 Machine Learning • Prediction
+
+<a href="https://github.com/Sahil-Bulbule/CAR-RECOMMENDATION-WEB-APP">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
