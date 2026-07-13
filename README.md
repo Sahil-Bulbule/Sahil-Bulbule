@@ -93,113 +93,82 @@
        alt="Cool GIF" 
        width="400" 
        height="300"/>
+
 </p>
 # 
-<!--==================== FEATURED PROJECTS ====================-->
+<!--━━━━━━━━━━━━━━ 🚀 FEATURED PROJECTS ━━━━━━━━━━━━━━-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=🚀%20FEATURED%20PROJECTS%20🚀&fontSize=30&fontAlignY=42&animation=fadeIn&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&text=✨%20FEATURED%20PROJECTS%20✨&fontSize=30&fontAlignY=40&animation=fadeIn&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff"/>
 </p>
 
 <div align="center">
 
-<table>
-<tr>
+# 🤖 AI & Machine Learning Portfolio
 
-<td width="50%" align="center">
+### 🧠 Building Intelligent AI Solutions using Machine Learning, Deep Learning & Generative AI
 
-## 🤖 RETAIN IQ
+---
 
-🧠 **AI Resume Analyzer**
+### 💼 RETAIN IQ
+**📊 Employee Attrition & Rejection Prediction System**
 
-✨ LLM • Gemini API • NLP • RAG
+> Predict employee attrition and hiring decisions using Machine Learning with an interactive analytics dashboard.
 
-<a href="https://github.com/Sahil-Bulbule/RETAIN---IQ">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-red?style=flat-square"/>
 
-</td>
+🔗 **Repository:** https://github.com/Sahil-Bulbule/RETAIN---IQ
 
-<td width="50%" align="center">
+---
 
-## 🛡️ INTRUSION-X
+### 🛡️ INTRUSION-X
+**🚨 Network Intrusion Detection using Deep Learning**
 
-🚨 **Network Intrusion Detection**
+> Detect cyber attacks using RNN, LSTM & GRU models trained on the NSL-KDD dataset.
 
-⚡ RNN • LSTM • GRU • TensorFlow
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LSTM-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/GRU-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/RNN-success?style=flat-square"/>
 
-<a href="https://github.com/Sahil-Bulbule/INTRUSION---X">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
-</a>
+🔗 **Repository:** https://github.com/Sahil-Bulbule/INTRUSION---X
 
-</td>
+---
 
-</tr>
+### 🔍 NEO INSPECT
+**📄 AI Resume Analyzer**
 
-<tr>
+> Intelligent resume analysis platform powered by Gemini API, NLP, RAG and LLMs.
 
-<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-green?style=flat-square"/>
 
-## 🔍 NEO INSPECT
+🔗 **Repository:** https://github.com/Sahil-Bulbule/NEO---INSPECT
 
-🧾 **Smart Inspection System**
+---
 
-🤖 AI • Computer Vision • Automation
+### 🎗️ CANCER PREDICTOR
+**🩺 AI Healthcare Prediction**
 
-<a href="https://github.com/Sahil-Bulbule/NEO---INSPECT">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
-</a>
+Machine Learning based cancer prediction system for early diagnosis.
 
-</td>
+---
 
-<td width="50%" align="center">
+### ❤️ HEART DISEASE RISK PREDICTOR
+**💓 Smart Disease Risk Prediction**
 
-## 🎗️ CANCER PREDICTOR
+Predict heart disease risk using supervised Machine Learning algorithms.
 
-🩺 **Disease Prediction Model**
+---
 
-🧠 Machine Learning • Healthcare AI
+### 🚗 CAR RECOMMENDATION WEB APP
+**🚘 Intelligent Vehicle Recommendation Platform**
 
-<a href="https://github.com/Sahil-Bulbule/CANCER-PREDICTOR">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## ❤️ HEART DISEASE
-
-💓 **Risk Prediction System**
-
-📊 Machine Learning • Data Analytics
-
-<a href="https://github.com/Sahil-Bulbule/HEART-DISEASE-RISK-PREDICTOR">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-## 🚗 CAR RECOMMENDATION
-
-🚘 **AI Recommendation System**
-
-📈 Machine Learning • Prediction
-
-<a href="https://github.com/Sahil-Bulbule/CAR-RECOMMENDATION-WEB-APP">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-6C63FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+Personalized car recommendations based on user preferences.
 
 </div>
-
