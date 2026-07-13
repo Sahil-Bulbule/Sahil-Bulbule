@@ -57,10 +57,8 @@
 #
 <!-- ======================== TECH STACK ======================== -->
 
-<h2 align="center">⚡ Tech Stack ⚡</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,tensorflow,vscode&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🌐+Tech+Stack+🌐&fontSize=22&fontAlign=50&fontAlignY=40&color=0:FF0080,25:FF8C00,50:40E0D0,75:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
