@@ -94,4 +94,113 @@
        width="400" 
        height="300"/>
 </p>
+# 
+<!--==================== FEATURED PROJECTS ====================-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=🚀+FEATURED+PROJECTS+🚀&fontSize=24&fontAlignY=40&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI Resume Analyzer
+📄 ATS Resume Analysis using **LLMs**, **NLP** & **Gemini API**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🛡️ Intrusion-X
+🔐 Network Intrusion Detection using **RNN • LSTM • GRU**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### ❤️ Heart Disease Prediction
+🧠 ML-powered prediction using **Scikit-Learn**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚗 Car Price Prediction
+📈 Machine Learning Regression Project
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 💸 Expense Tracker
+⚛️ React + Firebase Personal Finance App
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌾 AgriNova
+🌱 Smart Agriculture Platform
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<!--==================== CERTIFICATIONS ====================-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=🏆+CERTIFICATIONS+🏆&fontSize=24&fontAlignY=40&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐍%20Python%20Full%20Stack-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/✨%20Generative%20AI-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20LLMs-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚%20RAG-F97316?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔗%20LangChain-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🕸️%20LangGraph-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Agentic%20AI-2563EB?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<!--==================== PROFILE VISITORS ====================-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=👀+PROFILE+VISITORS+👀&fontSize=24&fontAlignY=40&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Bulbule&label=PROFILE+VIEWS&color=6A5ACD&style=for-the-badge"/>
+</p>
+
+<br>
+
+<!--==================== SNAKE CONTRIBUTION ====================-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=🐍+CONTRIBUTION+GRAPH+🐍&fontSize=24&fontAlignY=40&color=0:00C9FF,25:6A5ACD,50:8A2BE2,75:FF0080,100:00C9FF&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
