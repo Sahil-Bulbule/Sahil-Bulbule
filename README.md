@@ -55,122 +55,41 @@
 </table>
 
 #
+<!-- ======================== TECH STACK ======================== -->
+
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🤖+AI+%7C+ML+%7C+TECH+STACK+🚀&fontSize=22&fontAlign=50&fontAlignY=40&color=0:00C9FF,25:6A5ACD,50:7B68EE,75:8A2BE2,100:00C9FF&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,tensorflow,vscode&theme=dark" />
 </p>
 
 <p align="center">
-
-<!-- Programming -->
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- Python Full Stack -->
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- AI / ML -->
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=spacy&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br><br>
-
-<!-- Libraries -->
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://numpy.org/" target="_blank">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://keras.io/" target="_blank">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- GenAI -->
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<br><br>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,keras&theme=dark" />
 </p>
-#
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-059669?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-2563EB?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>🚀 Building Intelligent AI Applications with Python, Machine Learning, Deep Learning & Generative AI</b>
+</p>
+
+<!-- ============================================================ -->#
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🌐+STREAKS+🌐&fontSize=22&fontAlign=50&fontAlignY=40&color=0:FF0080,25:FF8C00,50:40E0D0,75:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -187,53 +106,3 @@
        height="300"/>
 </p>
 
-#
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,tensorflow,vscode&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,numpy,pandas,keras&titles=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-FF8C00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-7B68EE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-00BFFF?style=flat-square"/>
-</p>
-
-# 
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,react,flask,django,mongodb,mysql,git,docker,tensorflow"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-00BFFF?style=for-the-badge"/>
-
-</p>
-
-#
-<h3 align="center">⚡ Languages & Tools ⚡</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,vscode,tensorflow&theme=dark"/>
-</p>
-
-<h3 align="center">🧠 AI & Machine Learning</h3>
-
-<p align="center">
-
-🧠 Machine Learning • 🤖 Deep Learning • 💬 NLP • ✨ Generative AI • 📚 RAG • 🔗 LangChain • 🕸️ LangGraph • 🤖 Agentic AI • 📈 ANN • 🔄 CNN • ⚡ RNN • 🚀 LSTM • 💎 GRU
-
-</p>
