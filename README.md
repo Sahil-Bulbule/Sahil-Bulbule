@@ -205,3 +205,20 @@
   <img src="https://img.shields.io/badge/LangGraph-7B68EE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-00BFFF?style=flat-square"/>
 </p>
+
+# 
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,flask,django,mongodb,mysql,git,docker,tensorflow"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-00BFFF?style=for-the-badge"/>
+
+</p>
