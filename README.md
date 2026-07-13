@@ -4,57 +4,32 @@
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=🚀%20Code%20•%20Create%20•%20Innovate%20🚀&fontSize=22&fontAlign=50&fontAlignY=40&color=0:00F7FF,25:1E90FF,50:8A2BE2,75:FF00FF,100:00F7FF&fontColor=ffffff&animation=fadeIn&font=Orbitron" />
 </p>
-<h3 align="center">🚀 About Me</h3>
-
 <p align="center">
-🌱 <b>Currently Exploring</b> <br><br>
-
-🤖 <b>Agentic AI</b> • 🧠 <b>Large Language Models (LLMs)</b> • 📚 <b>RAG</b> • 🔗 <b>LangChain</b> • 🕸️ <b>LangGraph</b> <br>
-🤖 <b>Machine Learning</b> • 🧠 <b>Deep Learning</b> • 💬 <b>NLP</b> • ⚡ <b>Generative AI</b> <br>
-🌐 <b>Python Full Stack Development</b> • 🚀 <b>Flask</b> • 🎯 <b>Django</b>
+  🌱 <b>Currently Learning</b> » 🤖 Agentic AI • 🧠 LLMs • 📚 RAG • 🔗 LangChain • 🕸️ LangGraph • ⚡ AI Automation
 </p>
 
 <p align="center">
-💻 <b>Tech Stack</b> <br><br>
-
-🐍 Python &nbsp;•&nbsp;
-⚛️ React &nbsp;•&nbsp;
-🌐 HTML5 &nbsp;•&nbsp;
-🎨 CSS3 &nbsp;•&nbsp;
-⚡ JavaScript &nbsp;•&nbsp;
-🔥 Flask &nbsp;•&nbsp;
-🎯 Django &nbsp;•&nbsp;
-🤖 ML &nbsp;•&nbsp;
-🧠 DL &nbsp;•&nbsp;
-💬 NLP &nbsp;•&nbsp;
-📚 RAG &nbsp;•&nbsp;
-✨ Gen AI
+  🚀 <b>Tech Stack</b> » 🐍 Python • 🌐 Full Stack • ⚛️ React • 🔥 Flask • 🎯 Django • 💻 JavaScript • 🎨 HTML5 • CSS3
 </p>
 
 <p align="center">
-👨‍💻 <b>All My Projects Are Available Here</b><br><br>
-
-<a href="https://github.com/Sahil-Bulbule">
-<img src="https://img.shields.io/badge/GitHub-Sahil--Bulbule-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  🤖 <b>AI & Data Science</b> » 📊 Machine Learning • 🧠 Deep Learning • 💬 NLP • ✨ Generative AI • 🔥 ANN • 🖼️ CNN • 🔄 RNN • 📈 LSTM • ⚡ GRU
 </p>
 
 <p align="center">
-💬 <b>Ask Me About</b><br><br>
-
-🐍 Python • 🌐 Full Stack Development • 🤖 Machine Learning • 🧠 Deep Learning • 💬 NLP • ✨ Generative AI • 📚 RAG • 🤖 LLMs • 🔗 LangChain • 🕸️ LangGraph • ⚡ Agentic AI
+  💡 <b>Ask Me About</b> » 🐍 Python • 🤖 AI • 📚 RAG • 🧠 LLMs • 🔗 LangChain • 🕸️ LangGraph • 🌐 Web Development
 </p>
 
 <p align="center">
-📫 <b>Let's Connect</b><br><br>
-
-<a href="mailto:sahilbulbule16@gmail.com">
-<img src="https://img.shields.io/badge/Email-sahilbulbule16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  👨‍💻 <b>Projects</b> » <b><a href="https://github.com/Sahil-Bulbule">github.com/Sahil-Bulbule</a></b>
 </p>
 
 <p align="center">
-⚡ <i>"Turning AI Ideas Into Intelligent Applications That Create Real-World Impact."</i> 🚀
+  📫 <b>Reach Me</b> » <b><a href="mailto:sahilbulbule16@gmail.com">sahilbulbule16@gmail.com</a></b>
+</p>
+
+<p align="center">
+  ⚡ <b>Fun Fact</b> » <i>"Turning Ideas Into Intelligent AI Applications 🚀"</i>
 </p>
   
 #
