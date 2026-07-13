@@ -186,3 +186,22 @@
        width="400" 
        height="300"/>
 </p>
+
+#
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,tensorflow,vscode&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,numpy,pandas,keras&titles=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-FF8C00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-7B68EE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-00BFFF?style=flat-square"/>
+</p>
