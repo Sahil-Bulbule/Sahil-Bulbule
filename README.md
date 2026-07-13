@@ -222,3 +222,18 @@
 <img src="https://img.shields.io/badge/Agentic%20AI-00BFFF?style=for-the-badge"/>
 
 </p>
+
+#
+<h3 align="center">⚡ Languages & Tools ⚡</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,vscode,tensorflow&theme=dark"/>
+</p>
+
+<h3 align="center">🧠 AI & Machine Learning</h3>
+
+<p align="center">
+
+🧠 Machine Learning • 🤖 Deep Learning • 💬 NLP • ✨ Generative AI • 📚 RAG • 🔗 LangChain • 🕸️ LangGraph • 🤖 Agentic AI • 📈 ANN • 🔄 CNN • ⚡ RNN • 🚀 LSTM • 💎 GRU
+
+</p>
