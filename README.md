@@ -4,17 +4,25 @@
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=🚀%20Code%20•%20Create%20•%20Innovate%20🚀&fontSize=22&fontAlign=50&fontAlignY=40&color=0:00F7FF,25:1E90FF,50:8A2BE2,75:FF00FF,100:00F7FF&fontColor=ffffff&animation=fadeIn&font=Orbitron" />
 </p>
-<p align="center">       
-- 🌱 I’m Currently Learning " Python Backend Developement 💻 | Flask Completed 🚀 | Django Learning Stage ⚡" -        
 <p align="center">
-- 👨‍💻 All Of My Projects Are Available At " github.com/Sahil-Bulbule " -
+- 🌱 Currently Learning "Agentic AI 🤖 | Multi-Agent Systems ⚡ | AI Automation 🚀 | Advanced RAG 📚"
+</p>
+
 <p align="center">
-- 💬 Ask Me About " 🐍 Python | 💻 Web Dev | ⚛️ React | ⚡ JS | ☀️ HTML5 | 🎨 CSS3 " -
+- 👨‍💻 All Of My Projects Are Available At "github.com/Sahil-Bulbule"
+</p>
+
 <p align="center">
-- 📫 How To Reach Me **sahilbulbule16@gmail.com** -
+- 💬 Ask Me About "🐍 Python | 🌐 Full Stack Development | 🤖 Machine Learning | 🧠 Deep Learning | 💬 NLP | ✨ Generative AI | 🦜 LLMs | 🔗 LangChain | 🕸️ LangGraph | 📚 RAG"
+</p>
+
 <p align="center">
-- ⚡ Fun Fact " ⚡ Sometimes I Debug Code Better At Night 🌙 " -
-  </p>
+- 📫 Reach Me At "sahilbulbule16@gmail.com"
+</p>
+
+<p align="center">
+- ⚡ Fun Fact "I Love Building AI Applications That Solve Real Problems 🚀"
+</p>
   
 #
 <p align="center">
