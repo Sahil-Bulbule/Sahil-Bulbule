@@ -61,6 +61,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🌐+Tech+Stack+🌐&fontSize=22&fontAlign=50&fontAlignY=40&color=0:FF0080,25:FF8C00,50:40E0D0,75:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- ======================== TECH STACK ======================== -->
+
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,tensorflow,vscode&theme=dark" />
+</p>
+
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,keras&theme=dark" />
 </p>
@@ -87,15 +95,7 @@
   <b>🚀 Building Intelligent AI Applications with Python, Machine Learning, Deep Learning & Generative AI</b>
 </p>
 
-<!-- ============================================================ -->#
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🌐+STREAKS+🌐&fontSize=22&fontAlign=50&fontAlignY=40&color=0:FF0080,25:FF8C00,50:40E0D0,75:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sahil-Bulbule&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
+<!-- ============================================================ -->
 #
 <p align="center">
   <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
