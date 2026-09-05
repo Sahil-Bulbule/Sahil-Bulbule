@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Tech Stack</b> » 🐍 Python • 🌐 Full Stack • ⚛️ React • 🔥 Flask • 🎯 Django • 💻 JavaScript • 🎨 HTML5 • CSS3
+  🚀 <b>Tech Stack</b> » 🐍 Python • 🌐 Full Stack • ⚛️ React • 🔥 Flask • 🎯 Django • 💻 JavaScript • 🎨 HTML5 • CSS3   
 </p>
 
 <p align="center">
