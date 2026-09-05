@@ -10,7 +10,7 @@
   
 <p align="center">
   🚀 <b>Tech Stack</b> » 🐍 Python • 🌐 Full Stack • ⚛️ React • 🔥 Flask • 🎯 Django • 💻 JavaScript • 🎨 HTML5 • CSS3   
-</p>
+</p>  
   
 <p align="center">
   🤖 <b>AI & Data Science</b> » 📊 Machine Learning • 🧠 Deep Learning • 💬 NLP • ✨ Generative AI • 🔥 ANN • 🖼️ CNN • 🔄 RNN • 📈 LSTM • ⚡ GRU
