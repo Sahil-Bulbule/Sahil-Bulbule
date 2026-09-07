@@ -8,7 +8,7 @@
   🌱 <b>Currently Learning</b> » 🤖 Agentic AI • 🧠 LLMs • 📚 RAG • 🔗 LangChain • 🕸️ LangGraph • ⚡ AI Automation    
 </p>      
      
-<p align="center">
+<p align="center"> 
   🚀 <b>Tech Stack</b> » 🐍 Python • 🌐 Full Stack • ⚛️ React • 🔥 Flask • 🎯 Django • 💻 JavaScript • 🎨 HTML5 • CSS3    
 </p>     
    
