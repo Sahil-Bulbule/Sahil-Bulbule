@@ -133,13 +133,13 @@ experiment with modern AI tooling and real-world AI applications.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
     alt="GitHub statistics"
   />
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
     alt="Most used languages"
   />
 </p>
@@ -155,18 +155,6 @@ experiment with modern AI tooling and real-world AI applications.
     src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake-dark.svg"
     width="100%"
     alt="GitHub Contribution Snake"
-  />
-</p>
-
-<p align="center">
-  <sub>Contribution activity generated from my GitHub contribution graph.</sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/divider.svg"
-    width="100%"
-    alt=""
   />
 </p>
 
