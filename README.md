@@ -50,7 +50,7 @@
 
 <!-- ============================ ABOUT ============================ -->
 
-<h2 align="center">Current Focus</h2>
+<h2 align="center"><span style="color:#22D3EE">CURRENT</span> <span style="color:#7C5CFF">FOCUS</span></h2>
 
 <p align="center">
 An <b>AI/ML focused developer</b> and <b>Python full stack developer</b>, working where applied<br/>
@@ -74,7 +74,7 @@ experiment with modern AI tooling and real-world AI applications.
 
 <!-- ============================ AI BUILDER LAB ============================ -->
 
-<h2 align="center">AI Builder Lab</h2>
+<h2 align="center"><span style="color:#22D3EE">AI BUILDER</span> <span style="color:#E879F9">LAB</span></h2>
 
 <p align="center"><sub>What I am building, exploring and learning right now.</sub></p>
 
@@ -88,7 +88,7 @@ experiment with modern AI tooling and real-world AI applications.
 
 <!-- ============================ JOURNEY ============================ -->
 
-<h2 align="center">Learning Journey</h2>
+<h2 align="center"><span style="color:#7C5CFF">LEARNING</span> <span style="color:#22D3EE">JOURNEY</span></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/journey.svg" width="100%" alt="Journey from Python through Agentic AI, with Cloud Computing and DevOps as the next direction" />
@@ -100,7 +100,7 @@ experiment with modern AI tooling and real-world AI applications.
 
 <!-- ============================ SKILLS ============================ -->
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center"><span style="color:#22D3EE">TECH</span> <span style="color:#7C5CFF">STACK</span></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/skills.svg" width="100%" alt="Skills dashboard: languages, frontend, backend, databases, AI/ML, generative AI and tools around a central AI core" />
@@ -116,7 +116,7 @@ experiment with modern AI tooling and real-world AI applications.
 
 <!-- ============================ HOW I BUILD ============================ -->
 
-<h2 align="center">How I Build</h2>
+<h2 align="center"><span style="color:#E879F9">HOW I</span> <span style="color:#22D3EE">BUILD</span></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/how-i-build.svg" width="100%" alt="Learn, build, break, debug, improve, repeat" />
@@ -128,31 +128,27 @@ experiment with modern AI tooling and real-world AI applications.
 
 <!-- ============================ GITHUB ACTIVITY ============================ -->
 
-<!-- ============================ GITHUB ACTIVITY ============================ -->
-
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center"><span style="color:#22D3EE">GITHUB</span> <span style="color:#7C5CFF">ACTIVITY</span></h2>
 
 <p align="center">
-
   <img
-    height="160"
+    height="165"
     src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
-    alt="GitHub Statistics"
+    alt="GitHub statistics"
   />
 
   <img
-    height="160"
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
-    alt="Most Used Languages"
+    alt="Most used languages"
   />
-
 </p>
 
 <p align="center">
   <sub>Live GitHub statistics and language distribution.</sub>
 </p>
 
-<h3 align="center">Contribution Activity</h3>
+<h2 align="center"><span style="color:#7C5CFF">CONTRIBUTION</span> <span style="color:#E879F9">ACTIVITY</span></h2>
 
 <p align="center">
   <img
@@ -172,9 +168,23 @@ experiment with modern AI tooling and real-world AI applications.
     width="100%"
     alt=""
   />
-</p><!-- ============================ CONNECT ============================ -->
+</p>
 
-<h2 align="center">Connect</h2>
+<p align="center">
+  <sub>Contribution activity generated from my GitHub contribution graph.</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/divider.svg"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<!-- ============================ CONNECT ============================ -->
+
+<h2 align="center"><span style="color:#E879F9">CONNECT</span></h2>
 
 <p align="center">
   <a href="https://github.com/Sahil-Bulbule">
