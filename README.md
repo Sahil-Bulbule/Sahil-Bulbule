@@ -8,7 +8,7 @@
     
 <p align="center"><b>I build intelligent systems, AI-powered applications and modern web experiences.</b></p> 
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/Sahil-Bulbule"><img src="https://img.shields.io/badge/GITHUB-0B0D14?style=for-the-badge&logo=github&logoColor=E6E9F0" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/Sahil-Bulbule"><img src="https://img.shields.io/badge/LINKEDIN-0B0D14?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_sah_._eel_"><img src="https://img.shields.io/badge/INSTAGRAM-0B0D14?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram" /></a>
