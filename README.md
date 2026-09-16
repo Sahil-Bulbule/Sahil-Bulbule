@@ -59,26 +59,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/divider.svg" width="100%" alt="" /></p>
 
-<h2 align="center">SELECTED PROJECTS</h2>
-<p align="center"><sub>Selected work and build directions from my engineering portfolio.</sub></p>
-
-| PROJECT | SIGNAL |
-| --- | --- |
-| **RetainIQ** | Employee Attrition & Retention Analytics |
-| **NEO Inspect** | Automated Surface Defect Detection using CNN |
-| **Intrusion X** | AI Network Intrusion Detection |
-| **Cancer Predictor** | Machine Learning based prediction application |
-| **Heart Disease Risk Predictor** | Machine Learning based risk prediction |
-| **Expense Tracker** | React + Tailwind + Firebase |
-| **Study Planner / Focus Flow** | Planning and focus application |
-
 <p align="center"><img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/divider.svg" width="100%" alt="" /></p>
-
-<h2 align="center">GITHUB ACTIVITY</h2>
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2" alt="Most used languages" />
-</p>
 
 <h2 align="center">CONTRIBUTION ACTIVITY</h2>
 <p align="center"><img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" /></p>
