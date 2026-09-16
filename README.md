@@ -133,43 +133,37 @@ experiment with modern AI tooling and real-world AI applications.
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
-    alt="GitHub statistics"
-  />
+  <a href="https://github.com/Sahil-Bulbule">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
+      alt="GitHub Statistics"
+      height="165"
+    />
+  </a>
+</p>
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
-    alt="Most used languages"
-  />
+<p align="center">
+  <a href="https://github.com/Sahil-Bulbule">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
+      alt="Most Used Languages"
+      height="165"
+    />
+  </a>
 </p>
 
 <p align="center">
   <sub>Live GitHub statistics and language distribution.</sub>
 </p>
 
-<h3 align="center">Contribution Snake</h3>
+<h3 align="center">Contribution Activity</h3>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub contribution snake animation"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <p align="center">
@@ -183,7 +177,6 @@ experiment with modern AI tooling and real-world AI applications.
     alt=""
   />
 </p>
-
 <!-- ============================ CONNECT ============================ -->
 
 <h2 align="center">Connect</h2>
