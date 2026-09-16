@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/main/hero.svg" width="100%" alt="Sahil Bulbule - AI and ML Engineer" />
 </p> 
 
