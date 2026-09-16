@@ -133,23 +133,19 @@ experiment with modern AI tooling and real-world AI applications.
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/Sahil-Bulbule">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
-      alt="GitHub Statistics"
-      height="165"
-    />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
-      alt="Most Used Languages"
-      height="165"
-    />
-  </a>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0D14&icon_color=22D3EE&text_color=A7B0C2&ring_color=7C5CFF"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=0B0D14&text_color=A7B0C2"
+    alt="Most Used Languages"
+  />
+
 </p>
 
 <p align="center">
@@ -176,8 +172,7 @@ experiment with modern AI tooling and real-world AI applications.
     width="100%"
     alt=""
   />
-</p>
-<!-- ============================ CONNECT ============================ -->
+</p><!-- ============================ CONNECT ============================ -->
 
 <h2 align="center">Connect</h2>
 
