@@ -5,7 +5,7 @@
               
 <p align="center">         
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&height=42&lines=AI%2FML+ENGINEER;PYTHON+FULL+STACK+DEVELOPER;GENERATIVE+AI+DEVELOPER;RAG+%26+AGENTIC+AI+BUILDER" alt="AI ML Engineer, Python Full Stack Developer, Generative AI Developer, RAG and Agentic AI Builder" />    
-</p>   
+</p>    
     
 <p align="center"><b>I build intelligent systems, AI-powered applications and modern web experiences.</b></p>  
 
