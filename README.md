@@ -102,3 +102,149 @@
 />
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                    PHASE 2 • ABOUT ME                              -->
+
+<!--                    AI TERMINAL PROFILE                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- 🧠 ABOUT ME HEADER -->
+
+<div align="center">
+
+<img
+ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=55&lines=%3E_+ABOUT_ME.exe;%3E_+SYSTEM+PROFILE+LOADED"
+ alt="About Me"
+/>
+
+</div>
+
+<br/>
+
+<!-- 🖥️ TERMINAL WINDOW -->
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ● ● ●        SAHIL@AI-LAB ~ /profile                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > whoami                                                     │
+│                                                              │
+│  SAHIL BULBULE                                                │
+│  AI/ML Engineer • Generative AI Developer                    │
+│                                                              │
+│  > mission                                                    │
+│                                                              │
+│  Building intelligent systems that solve real-world          │
+│  problems using Machine Learning, Deep Learning,              │
+│  LLMs, RAG and Agentic AI.                                   │
+│                                                              │
+│  > current_stack                                              │
+│                                                              │
+│  Python • ML • DL • NLP • GenAI • LLMs • RAG • Agents        │
+│                                                              │
+│  > backend                                                    │
+│                                                              │
+│  Flask • Django • FastAPI • MongoDB • SQL                    │
+│                                                              │
+│  > frontend                                                   │
+│                                                              │
+│  React.js • Tailwind CSS • JavaScript                        │
+│                                                              │
+│  > status                                                     │
+│                                                              │
+│  [████████████████████████████████████████] 100% ONLINE     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ⚡ PROFILE SIGNALS -->
+
+<div align="center">
+
+|  🧠 **CORE**  |  ⚙️ **BUILDING** |  🚀 **EXPLORING**  |
+| :-----------: | :--------------: | :----------------: |
+|    AI / ML    | LLM Applications |     Agentic AI     |
+| Deep Learning |    RAG Systems   |    AI Automation   |
+|      NLP      |    Python APIs   | Intelligent Agents |
+
+</div>
+
+<br/>
+
+<!-- 🧩 CURRENT MISSION -->
+
+<div align="center">
+
+### `// CURRENT MISSION`
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&width=900&height=45&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+IMPROVE;Turning+AI+concepts+into+real-world+applications.;Building+RAG+%2B+Agentic+AI+systems."
+alt="Current mission animation"
+/>
+
+</div>
+
+<br/>
+
+<!-- 🔄 ENGINEERING LOOP -->
+
+<div align="center">
+
+```text
+        ┌──────────┐
+        │  LEARN   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  BUILD   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  TEST    │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  DEBUG   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │ IMPROVE  │
+        └────┬─────┘
+             │
+             └──────────────→ REPEAT
+```
+
+</div>
+
+<br/>
+
+<!-- 🟢 PROFILE STATUS -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-10B981?style=for-the-badge&labelColor=0B1120" />
+<img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-F59E0B?style=for-the-badge&labelColor=0B1120" />
+<img src="https://img.shields.io/badge/EXPERIMENTING-WITH%20AI-E5E7EB?style=for-the-badge&labelColor=0B1120" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         END PHASE 2                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
