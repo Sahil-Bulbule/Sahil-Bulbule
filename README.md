@@ -26,15 +26,4 @@
 
 <sub><b>Python Full Stack Developer</b> &nbsp;•&nbsp; <b>Generative AI Developer</b> &nbsp;•&nbsp; <b>RAG &amp; Agentic AI Builder</b> &nbsp;•&nbsp; India</sub>
 
-</div>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:F59E0B&height=2" width="40%" alt="" /></p>
-
-<h2 align="center"><code>01 // ABOUT</code></h2>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1500&color=F59E0B&center=true&vCenter=true&repeat=true&width=420&height=30&lines=SAHIL%40AI-LAB+~%2Fprofile;%24+whoami" alt="SAHIL@AI-LAB ~/profile" />
-</div>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,45:0F3D32,100:071A16&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=26&fontColor=F8FAFC&fontAlignY=60&animation=twinkling&desc=BUILDING%20THE%20NEXT%20INTELLIGENT%20SYSTEM...&descSize=14&descColor=F59E0B&descAlignY=78" width="100%" alt="End of transmission. Building the next intelligent system." />
