@@ -1,38 +1,104 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              SAHIL BULBULE • AI/ML ENGINEER • CYBERPUNK UI        -->
+
+<!--                    SAHIL BULBULE • PHASE 1                         -->
+
+<!--                    PREMIUM AI ENGINEER INTRO                       -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- 🌊 ANIMATED WAVE HEADER -->
+<!-- 🟢 ANIMATED HERO -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C5CFF,100:E879F9&height=200&section=header&text=SAHIL%20BULBULE&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20GEN%20AI%20BUILDER&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&color=0:071A16,45:0F3D32,75:F59E0B,100:111827&height=230&section=header&text=SAHIL%20BULBULE&fontSize=68&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20GENERATIVE%20AI%20BUILDER&descAlignY=59&descSize=18&animation=fadeIn"
+ width="100%"
+ alt="Sahil Bulbule"
+/>
+
 </div>
 
-<!-- ⌨️ TYPING ANIMATION -->
+<!-- ⚡ ANIMATED IDENTITY -->
+
 <div align="center">
-  <a href="https://github.com/Sahil-Bulbule">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&height=60&lines=%5B+SYSTEM+ONLINE+%5D+%F0%9F%9F%A2;AI%2FML+ENGINEER+%F0%9F%A4%96;PYTHON+FULL+STACK+DEV+%F0%9F%90%8D;GENERATIVE+AI+BUILDER+%E2%9C%A8;RAG+%26+AGENTIC+AI+ARCHITECT+%F0%9F%A7%A0" alt="Typing SVG" />
+
+<img
+ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=850&height=70&lines=%3E+INITIALIZING+SAHIL.exe;AI%2FML+ENGINEER+%F0%9F%A4%96;PYTHON+FULL+STACK+DEVELOPER+%F0%9F%90%8D;GENERATIVE+AI+BUILDER+%E2%9C%A8;RAG+%2B+AGENTIC+AI+ENGINEER+%F0%9F%A7%A0;BUILDING+INTELLIGENT+SYSTEMS+%E2%9A%A1"
+ alt="Typing animation"
+/>
+
+</div>
+
+<br/>
+
+<!-- 🧬 SYSTEM STATUS -->
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/%E2%97%89_SYSTEM-ONLINE-10B981?style=for-the-badge&labelColor=0B1120" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_BUILD_MODE-ACTIVE-F59E0B?style=for-the-badge&labelColor=0B1120" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_FOCUS-AI%20%2B%20LLMs-E5E7EB?style=for-the-badge&labelColor=0B1120" />
+
+</div>
+
+<br/>
+
+<!-- 🛰️ QUICK NAVIGATION -->
+
+<div align="center">
+
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/ABOUT_ME-0B1120?style=for-the-badge&logoColor=F8FAFC" />
   </a>
-</div>
 
-<!-- 🎯 STATUS BAR -->
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-22D3EE?style=for-the-badge&labelColor=0B0D14" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-E879F9?style=for-the-badge&labelColor=0B0D14" />
-  <img src="https://img.shields.io/badge/FOCUS-BUILDING_AI-7C5CFF?style=for-the-badge&labelColor=0B0D14" />
-  <img src="https://komarev.com/ghpvc/?username=Sahil-Bulbule&label=VISITORS&color=22D3EE&style=for-the-badge&labelColor=0B0D14" />
-</div>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/TECH_STACK-0B1120?style=for-the-badge&logoColor=F8FAFC" />
+  </a>
 
-<br/>
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/PROJECTS-0B1120?style=for-the-badge&logoColor=F8FAFC" />
+  </a>
 
-<!-- 🌐 SOCIAL HUB -->
-<div align="center">
-  <a href="https://github.com/Sahil-Bulbule"><img src="https://img.shields.io/badge/◈_GITHUB-0B0D14?style=for-the-badge&logo=github&logoColor=E6E9F0" /></a>
-  <a href="https://www.linkedin.com/in/Sahil-Bulbule"><img src="https://img.shields.io/badge/◈_LINKEDIN-0B0D14?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-  <a href="https://instagram.com/_sah_._eel_"><img src="https://img.shields.io/badge/◈_INSTAGRAM-0B0D14?style=for-the-badge&logo=instagram&logoColor=E879F9" /></a>
-  <a href="mailto:sahilbulbule16@gmail.com"><img src="https://img.shields.io/badge/◈_EMAIL-0B0D14?style=for-the-badge&logo=gmail&logoColor=CBD5E1" /></a>
+  <a href="#-connect-with-me">
+    <img src="https://img.shields.io/badge/CONNECT-0B1120?style=for-the-badge&logoColor=F8FAFC" />
+  </a>
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- 🌐 SOCIAL TERMINAL -->
 
+<div align="center">
+
+  <a href="https://github.com/Sahil-Bulbule">
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/Sahil-Bulbule">
+    <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" />
+  </a>
+
+  <a href="https://instagram.com/_sah_._eel_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=F59E0B" />
+  </a>
+
+  <a href="mailto:sahilbulbule16@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F8FAFC" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ✨ ANIMATED DIVIDER -->
+
+<div align="center">
+
+<img
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+ width="100%"
+ alt="Animated divider"
+/>
+
+</div>
