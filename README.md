@@ -1,4 +1,3 @@
-````markdown
 <!-- ============================================================
      SAHIL BULBULE // AI/ML ENGINEER // PROFILE README
      Palette: #071A16  #0B1120  #0F3D32  #10B981  #F59E0B  #F8FAFC  #CBD5E1
@@ -521,4 +520,3 @@ let's connect.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,45:0F3D32,100:071A16&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=26&fontColor=F8FAFC&fontAlignY=60&animation=twinkling&desc=BUILDING%20THE%20NEXT%20INTELLIGENT%20SYSTEM...&descSize=14&descColor=F59E0B&descAlignY=78" width="100%" alt="End of transmission. Building the next intelligent system." />
-````
