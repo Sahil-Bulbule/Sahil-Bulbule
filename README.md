@@ -26,63 +26,70 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!--                     02 // ABOUT ME                                  -->
+<!--                       02 // ABOUT ME                                -->
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=700&height=50&lines=%3E_+ABOUT+ME;%3E_+SYSTEM+PROFILE+LOADED;%3E_+IDENTITY+VERIFIED" alt="About Me Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=700&height=55&lines=HELLO%2C+I'M+SAHIL+%F0%9F%91%8B;AI%2FML+ENGINEER;GENERATIVE+AI+BUILDER;BUILDING+INTELLIGENT+SYSTEMS"
+alt="Animated introduction"
+/>
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:F59E0B,100:10B981&height=3&section=header&animation=twinkling"
+width="70%"
+alt="animated divider"
+/>
 
 </div>
 
 <br>
 
-<!-- 🟢 TERMINAL PROFILE -->
+<!-- ✦ MAIN ABOUT -->
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
-<td>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  ●  ●  ●       SAHIL@AI-LAB  ~/profile                  │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  $ whoami                                                │
-│                                                          │
-│  SAHIL BULBULE                                           │
-│  AI/ML Engineer • GenAI Developer                       │
-│                                                          │
-│  $ cat mission.txt                                       │
-│                                                          │
-│  Building intelligent systems that turn                  │
-│  real-world problems into AI-powered solutions.          │
-│                                                          │
-│  $ currently_exploring                                  │
-│                                                          │
-│  ├── Machine Learning                                    │
-│  ├── Deep Learning                                       │
-│  ├── NLP                                                 │
-│  ├── Generative AI                                       │
-│  ├── LLM Applications                                    │
-│  ├── RAG Systems                                         │
-│  └── Agentic AI                                          │
-│                                                          │
-│  $ developer_mode                                       │
-│                                                          │
-│  LEARN  →  BUILD  →  DEBUG  →  IMPROVE                 │
-│                                                          │
-│  $ status                                                │
-│                                                          │
-│  [████████████████████████████████████] ONLINE           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<td width="55%" valign="middle">
+
+<h2>👨‍💻 Who I Am</h2>
+
+<p>
+I'm <b>Sahil Bulbule</b>, an <b>AI/ML Engineer</b> and
+<b>Python Full Stack Developer</b> passionate about turning
+AI concepts into practical, real-world applications.
+</p>
+
+<p>
+My journey started with <b>Machine Learning</b> and
+<b>Deep Learning</b>, and has evolved toward
+<b>Generative AI, LLMs, RAG and Agentic AI</b>.
+</p>
+
+<p>
+I enjoy learning by building — experimenting with models,
+APIs, intelligent workflows and full-stack applications
+that connect AI with real-world problems.
+</p>
 
 </td>
+
+<td width="45%" align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=0:071A16,50:0F3D32,100:111827&height=260&section=header&text=AI%20%E2%9A%A1%20BUILD&fontSize=32&fontColor=F8FAFC&animation=twinkling"
+width="100%"
+alt="AI Build"
+/>
+
+</td>
+
 </tr>
 </table>
 
@@ -90,43 +97,76 @@
 
 <br>
 
-<!-- ⚡ IDENTITY CARDS -->
+<!-- ✦ WHAT I BUILD -->
 
 <div align="center">
+
+<h2>⚡ What I'm Building</h2>
 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="180">
 
-### 🧠 AI ENGINEER
+<img src="https://img.shields.io/badge/01-10B981?style=for-the-badge&labelColor=071A16"/>
 
-Machine Learning
+<br><br>
+
+<b>AI / ML</b>
+
+<br>
+
+Predictive Models
 Deep Learning
-NLP
-Generative AI
+Computer Vision
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="180">
 
-### 🤖 AI BUILDER
+<img src="https://img.shields.io/badge/02-F59E0B?style=for-the-badge&labelColor=071A16"/>
+
+<br><br>
+
+<b>GENERATIVE AI</b>
+
+<br>
 
 LLMs
-RAG
-Agentic AI
 AI Applications
+Prompt Engineering
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="180">
 
-### 🐍 FULL STACK
+<img src="https://img.shields.io/badge/03-10B981?style=for-the-badge&labelColor=071A16"/>
 
-Python
-Flask • Django
-React
-MongoDB
+<br><br>
+
+<b>RAG</b>
+
+<br>
+
+Knowledge Retrieval
+Embeddings
+Context-Aware AI
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/04-F59E0B?style=for-the-badge&labelColor=071A16"/>
+
+<br><br>
+
+<b>AGENTS</b>
+
+<br>
+
+AI Agents
+Tools
+Autonomous Workflows
 
 </td>
 
@@ -137,65 +177,57 @@ MongoDB
 
 <br>
 
-<!-- 🔥 CURRENT MISSION -->
+<!-- ✦ ANIMATED AI JOURNEY -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&height=45&lines=Building+AI+systems+that+actually+solve+problems.;Exploring+LLMs%2C+RAG+%26+Agentic+AI.;Turning+ideas+into+working+applications.;Always+learning.+Always+building." alt="Mission Animation"/>
+<h2>🧬 My AI Journey</h2>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=10B981&center=true&vCenter=true&width=900&height=45&lines=Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+NLP;NLP+%E2%86%92+Generative+AI+%E2%86%92+LLMs;LLMs+%E2%86%92+RAG+%E2%86%92+Agentic+AI"
+alt="AI journey animation"
+/>
 
 </div>
 
 <br>
 
-<!-- 🧬 AI JOURNEY -->
+<!-- ✦ CURRENTLY -->
 
 <div align="center">
 
-```text
-   MACHINE
-   LEARNING
-      │
-      ▼
-    DEEP
-   LEARNING
-      │
-      ▼
-     NLP
-      │
-      ▼
- GENERATIVE AI
-      │
-      ▼
-     LLMs
-      │
-      ▼
-     RAG
-      │
-      ▼
-  AGENTIC AI
-```
+<h2>🚀 Currently Exploring</h2>
+
+<img
+src="https://img.shields.io/badge/LLM_APPLICATIONS-111827?style=for-the-flat-square&logoColor=F8FAFC"
+/> <img
+src="https://img.shields.io/badge/RAG_SYSTEMS-111827?style=for-the-flat-square&logoColor=F8FAFC"
+/> <img
+src="https://img.shields.io/badge/AGENTIC_AI-111827?style=for-the-flat-square&logoColor=F8FAFC"
+/> <img
+src="https://img.shields.io/badge/AI_AUTOMATION-111827?style=for-the-flat-square&logoColor=F8FAFC"
+/>
+
+<br><br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=CBD5E1&center=true&vCenter=true&width=750&height=40&lines=Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Improving"
+alt="Learning animation"
+/>
 
 </div>
 
 <br>
 
-<!-- 🟡 STATUS -->
+<!-- ✦ PERSONAL PHILOSOPHY -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILDING-AI%20SYSTEMS-10B981?style=for-the-badge&labelColor=071A16"/>
-<img src="https://img.shields.io/badge/EXPLORING-LLMs-F59E0B?style=for-the-badge&labelColor=071A16"/>
-<img src="https://img.shields.io/badge/LEARNING-AGENTIC%20AI-F8FAFC?style=for-the-badge&labelColor=071A16"/>
-
-</div>
-
-<br>
-
-<!-- ✦ PERSONAL LINE -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A16,50:0F3D32,100:071A16&height=80&section=header&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20DEBUG%20%E2%80%A2%20IMPROVE&fontSize=18&fontColor=F8FAFC&animation=fadeIn" width="90%" alt="Engineering Philosophy"/>
+<img
+src="https://capsule-render.vercel.app/api?type=soft&color=0:071A16,50:0F3D32,100:071A16&height=120&section=header&text=BUILD.%20LEARN.%20EVOLVE.&fontSize=28&fontColor=F8FAFC&animation=twinkling"
+width="85%"
+alt="Build Learn Evolve"
+/>
 
 </div>
 
@@ -203,9 +235,8 @@ MongoDB
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!--                     END // ABOUT ME                                 -->
+<!--                       END // ABOUT ME                               -->
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,45:0F3D32,100:071A16&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=26&fontColor=F8FAFC&fontAlignY=60&animation=twinkling&desc=BUILDING%20THE%20NEXT%20INTELLIGENT%20SYSTEM...&descSize=14&descColor=F59E0B&descAlignY=78" width="100%" alt="End of transmission. Building the next intelligent system." />
