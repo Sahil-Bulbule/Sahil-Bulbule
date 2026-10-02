@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Animated neural network banner: Building with AI, LLMs, RAG, agents and full stack" />
+<img src="hero.svg" width="100%" alt="Animated neural network banner: Building with AI, LLMs, RAG, agents and full stack" />
 
 # 👋 Hey, I'm Sahil Bulbule
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=720&height=50&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+Builder;RAG+%26+Agentic+AI+Developer;Python+Full+Stack+Developer;Computer+Science+Student" alt="Typing animation: AI/ML Engineer, Generative AI Developer, LLM Builder, RAG and Agentic AI Developer, Python Full Stack Developer, Computer Science Student" />
 </a>
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 </div>
 
@@ -34,7 +34,7 @@ Currently sharpening my problem-solving skills through **DSA with Python**.
 ![Python Full Stack](https://img.shields.io/badge/Python%20Full%20Stack-22D3EE?style=flat-square&labelColor=0B0816)
 ![DSA](https://img.shields.io/badge/DSA%20with%20Python-EC4899?style=flat-square&labelColor=0B0816)
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 </div>
 
@@ -98,7 +98,7 @@ Currently sharpening my problem-solving skills through **DSA with Python**.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 </div>
 
@@ -162,7 +162,7 @@ A computer vision system designed to detect surface defects using CNN-based deep
 
 <div align="center">
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 <!-- ───────────── GITHUB INTELLIGENCE ───────────── -->
 
@@ -180,7 +180,7 @@ A computer vision system designed to detect surface defects using CNN-based deep
   <img alt="Contribution snake animation for Sahil-Bulbule" src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 </div>
 
@@ -192,7 +192,7 @@ A computer vision system designed to detect surface defects using CNN-based deep
 
 <img src="assets/exploring.svg" width="100%" alt="Currently exploring: Advanced LLM Development, Generative AI, RAG Systems, Agentic AI, Python Full Stack, DSA and Problem Solving" />
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 <!-- ───────────── BUILDING MINDSET ───────────── -->
 
@@ -202,7 +202,7 @@ A computer vision system designed to detect surface defects using CNN-based deep
 >
 > *Models learn from data. I learn from bugs.*
 
-<img src="assets/divider.svg" width="85%" alt="" />
+<img src="divider.svg" width="85%" alt="" />
 
 <!-- ───────────── CONNECT ───────────── -->
 
