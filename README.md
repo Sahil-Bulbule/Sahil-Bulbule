@@ -1,6 +1,220 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+☀️,+I'm+Sahil;💻+Passionate+Frontend+Developer;🐍+Python+Backend+Developer;🤖+Exploring+AI+%26+ML+Enthusiast;🚀+Crafting+My+Tech+Career" /> </h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=🚀%20Code%20•%20Create%20•%20Innovate%20🚀 &fontSize=22&fontAlign=50&fontAlignY=40&color=0:00F7FF,25:1E90FF,50:8A2BE2,75:FF00FF,100:00F7FF&fontColor=ffffff&animation=fadeIn&font=Orbitron" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sahil-Bulbule&label=Profile%20Views&color=00F7FF&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/Sahil-Bulbule?label=Followers&style=for-the-badge&color=8A2BE2" /> </p> <p align="center"> 🌱 <b>Currently Learning</b> » 🤖 Agentic AI • 🧠 LLMs • 📚 RAG • 🔗 LangChain • 🕸️ LangGraph • ⚡ AI Automation </p> <p align="center"> 🚀 <b>Tech Stack</b> » 🐍 Python • 🌐 Full Stack • ⚛️ React • 🔥 Flask • 🎯 Django • 💻 JavaScript • 🎨 HTML5 • CSS3 </p> <p align="center"> 🤖 <b>AI & Data Science</b> » 📊 Machine Learning • 🧠 Deep Learning • 💬 NLP • ✨ Generative AI • 🔥 ANN • 🖼️ CNN • 🔄 RNN • 📈 LSTM • ⚡ GRU </p> <p align="center"> 💡 <b>Ask Me About</b> » 🐍 Python • 🤖 AI • 📚 RAG • 🧠 LLMs • 🔗 LangChain • 🕸️ LangGraph • 🌐 Web Development </p> <p align="center"> 👨‍💻 <b>Projects</b> » <b><a href="https://github.com/Sahil-Bulbule">github.com/Sahil-Bulbule</a></b> </p> <p align="center"> 📫 <b>Reach Me</b> » <b><a href="mailto:sahilbulbule16@gmail.com">sahilbulbule16@gmail.com</a></b> </p> <p align="center"> ⚡ <b>Fun Fact</b> » <i>"Turning Ideas Into Intelligent AI Applications 🚀"</i> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🌐+Connect+With+Me+🌐&fontSize=22&fontAlign=50&fontAlignY=40&color=0:FF0080,25:FF8C00,50:40E0D0,75:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn" /> </p> <table align="center"> <tr> <td align="center"> <a href="https://instagram.com/_sah_._eel_"> <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/><br> Instagram </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/Sahil-Bulbule"> <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/><br> LinkedIn </a> </td> <td align="center"> <a href="mailto:sahilbulbule16@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/><br> Gmail </a> </td> </tr> </table>
-<!-- ======================== TECH STACK ======================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=🌐+Tech+Stack+🌐&fontSize=22&fontAlign=50&fontAlignY=40&color=0:FF0080,25:FF8C00,50:40E0D0,75:8A2BE2,100:FF0080&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,django,mongodb,mysql,git,github,docker,tensorflow,vscode&theme=dark" /> </p> <p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,keras&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Generative%20AI-E11D48?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/LangChain-059669?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-2563EB?style=for-the-badge"/> </p>
-<!-- ======================== GITHUB STATS ======================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=📊+GitHub+Stats+📊&fontSize=22&fontAlign=50&fontAlignY=40&color=0:00F7FF,25:8A2BE2,50:FF00FF,75:1E90FF,100:00F7FF&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Bulbule&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bulbule&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF00FF" width="90%"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Bulbule&theme=tokyonight&no-frame=true&margin-w=10&column=7" /> </p>
-<!-- ======================== CONTRIBUTION SNAKE ======================== --> <p align="center"> <img src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-contribution-grid-snake-dark.svg" width="90%"/> </p> <p align="center"><i>👆 Add the <b>snake.yml</b> workflow (see setup notes below) to make this contribution snake come alive on your own repo.</i></p>
-<p align="center"> <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Cool GIF" width="400" height="300"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F7FF,25:1E90FF,50:8A2BE2,75:FF00FF,100:00F7FF" /> </p>
+<div align="center">
+
+<img src="assets/hero.svg" width="100%" alt="Animated neural network banner: Building with AI, LLMs, RAG, agents and full stack" />
+
+# 👋 Hey, I'm Sahil Bulbule
+
+<a href="https://github.com/Sahil-Bulbule">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=720&height=50&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+Builder;RAG+%26+Agentic+AI+Developer;Python+Full+Stack+Developer;Computer+Science+Student" alt="Typing animation: AI/ML Engineer, Generative AI Developer, LLM Builder, RAG and Agentic AI Developer, Python Full Stack Developer, Computer Science Student" />
+</a>
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+</div>
+
+<!-- ───────────── WHO AM I ───────────── -->
+
+<div align="center">
+
+## 🧠 Who Am I?
+
+</div>
+
+I'm a **Computer Science student** passionate about building intelligent systems and modern applications.
+
+I explore the journey from **Machine Learning → Deep Learning → NLP → Generative AI → LLMs → RAG → Agentic AI**, while also building applications with **Python** and modern web technologies.
+
+Currently sharpening my problem-solving skills through **DSA with Python**.
+
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-8B5CF6?style=flat-square&labelColor=0B0816)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-D946EF?style=flat-square&labelColor=0B0816)
+![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square&labelColor=0B0816)
+![Python Full Stack](https://img.shields.io/badge/Python%20Full%20Stack-22D3EE?style=flat-square&labelColor=0B0816)
+![DSA](https://img.shields.io/badge/DSA%20with%20Python-EC4899?style=flat-square&labelColor=0B0816)
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+</div>
+
+<!-- ───────────── AI JOURNEY ───────────── -->
+
+<div align="center">
+
+## ⚡ My AI Journey
+
+<img src="assets/ai-journey.svg" width="100%" alt="AI evolution pipeline: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Agentic AI" />
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+</div>
+
+<!-- ───────────── TECH ARSENAL ───────────── -->
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td align="center" width="200"><b>🤖 AI / Intelligence</b></td>
+<td>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-A855F7?style=for-the-badge&logo=huggingface&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-C026D3?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-06B6D4?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>💻 Development</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,django&theme=dark" alt="Python, JavaScript, HTML, CSS, React.js, Flask, Django" />
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Data &amp; Backend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB, Firebase" />
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Problem Solving</b></td>
+<td>
+
+![DSA with Python](https://img.shields.io/badge/DSA%20with%20Python-In%20Progress-EC4899?style=for-the-badge&logo=python&logoColor=white&labelColor=0B0816)
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+</div>
+
+<!-- ───────────── FEATURED BUILDS ───────────── -->
+
+<div align="center">
+
+## 🚀 Featured Builds
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>PROJECT 01</b></sub>
+
+### RetainIQ
+**Employee Attrition & Retention Analytics**
+
+An AI/ML-driven analytics project focused on understanding employee attrition patterns and retention insights.
+
+![AI/ML](https://img.shields.io/badge/🧠%20AI%2FML-8B5CF6?style=flat-square&labelColor=0B0816)
+![Analytics](https://img.shields.io/badge/📊%20Analytics-D946EF?style=flat-square&labelColor=0B0816)
+![Python](https://img.shields.io/badge/🐍%20Python-3B82F6?style=flat-square&labelColor=0B0816)
+![Streamlit](https://img.shields.io/badge/⚡%20Streamlit-22D3EE?style=flat-square&labelColor=0B0816)
+
+**Key capabilities**
+- Random Forest–based attrition prediction
+- Animated gauge charts for risk visualisation
+- Multi-section interactive Streamlit interface
+
+**[Repository →](https://github.com/Sahil-Bulbule/RETAIN---IQ)**
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>PROJECT 02</b></sub>
+
+### NEO Inspect
+**AI Surface Defect Detection**
+
+A computer vision system designed to detect surface defects using CNN-based deep learning techniques.
+
+![Computer Vision](https://img.shields.io/badge/👁️%20Computer%20Vision-8B5CF6?style=flat-square&labelColor=0B0816)
+![CNN](https://img.shields.io/badge/🧠%20CNN-D946EF?style=flat-square&labelColor=0B0816)
+![TensorFlow](https://img.shields.io/badge/🔥%20TensorFlow-3B82F6?style=flat-square&labelColor=0B0816)
+![Python](https://img.shields.io/badge/🐍%20Python-22D3EE?style=flat-square&labelColor=0B0816)
+![Deep Learning](https://img.shields.io/badge/🤖%20Deep%20Learning-EC4899?style=flat-square&labelColor=0B0816)
+
+**Key capabilities**
+- Six-class CNN defect classifier
+- Plotly-powered visual analysis
+- AI recommendation engine for detected defects
+
+**[Repository →](YOUR_REPOSITORY_LINK)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+<!-- ───────────── GITHUB INTELLIGENCE ───────────── -->
+
+## 📊 GitHub Intelligence
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&bg_color=35,0B0816,1E1B4B&title_color=C084FC&icon_color=22D3EE&text_color=E2E8F0&border_color=3B0764&border_radius=12" alt="Sahil-Bulbule GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bulbule&layout=compact&bg_color=35,0B0816,1E1B4B&title_color=C084FC&text_color=E2E8F0&border_color=3B0764&border_radius=12" alt="Sahil-Bulbule top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Sahil-Bulbule&theme=dark&background=0B0816&border=3B0764&stroke=3B0764&ring=A855F7&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=C084FC&sideLabels=E2E8F0&dates=94A3B8&border_radius=12" alt="Sahil-Bulbule contribution streak" />
+
+<!-- Snake: needs .github/workflows/snake.yml in this repo, run once from the Actions tab -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-snake.svg" />
+  <img alt="Contribution snake animation for Sahil-Bulbule" src="https://raw.githubusercontent.com/Sahil-Bulbule/Sahil-Bulbule/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+</div>
+
+<!-- ───────────── CURRENTLY EXPLORING ───────────── -->
+
+<div align="center">
+
+## 🌐 Currently Exploring
+
+<img src="assets/exploring.svg" width="100%" alt="Currently exploring: Advanced LLM Development, Generative AI, RAG Systems, Agentic AI, Python Full Stack, DSA and Problem Solving" />
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+<!-- ───────────── BUILDING MINDSET ───────────── -->
+
+## 💻 Building Mindset
+
+> **Prompt → Prototype → Break → Debug → Refine → Ship → Repeat.**
+>
+> *Models learn from data. I learn from bugs.*
+
+<img src="assets/divider.svg" width="85%" alt="" />
+
+<!-- ───────────── CONNECT ───────────── -->
+
+## 🌐 Let's Connect
+
+<a href="https://github.com/Sahil-Bulbule"><img src="https://img.shields.io/badge/GitHub-0B0816?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/Sahil-Bulbule"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://sahil-bulbule.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D946EF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:sahilbulbule16@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0816" alt="Email" /></a>
+
+</div>
+
+<!-- ───────────── FOOTER ───────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:22D3EE,35:3B82F6,65:D946EF,100:6D28D9&section=footer&animation=twinkling" alt="Animated gradient wave footer" />
