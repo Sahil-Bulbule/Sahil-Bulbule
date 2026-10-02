@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Animated neural network banner: Building with AI, LLMs, RAG, agents and full stack" />
+<img src="hero.svg" width="100%" alt="Animated neural network banner: Building with AI, LLMs, RAG, agents and full stack" />
 
 # 👋 Hey, I'm Sahil Bulbule
 
