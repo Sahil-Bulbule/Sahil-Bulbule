@@ -85,26 +85,8 @@ Most of my work so far is practical and end to end: a trained model, a clean int
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ========================= 03 PROJECTS ========================= -->
-<p align="center"><img src="assets/h-projects.svg" width="100%" alt="03 - Featured Projects" /></p>
-
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule/-HEART-DISEASE-RISK-PREDICTOR-"><img src="assets/card-heart.svg" width="48%" alt="Heart Disease Risk Predictor - SVM and Streamlit app that predicts heart disease likelihood from patient data" /></a>
-  <a href="https://github.com/Sahil-Bulbule/CANCER-PREDICTOR"><img src="assets/card-cancer.svg" width="48%" alt="Cancer Predictor - Logistic Regression cancer risk assessment with a Streamlit dashboard" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule/INTRUSION---X"><img src="assets/card-intrusion.svg" width="48%" alt="Intrusion X - deep learning network intrusion detection comparing RNN, LSTM and GRU" /></a>
-  <a href="https://github.com/Sahil-Bulbule/RETAIN---IQ"><img src="assets/card-retainiq.svg" width="48%" alt="RetainIQ - ANN-based employee attrition and retention analytics" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Sahil-Bulbule/NEO---INSPECT"><img src="assets/card-neoinspect.svg" width="48%" alt="Neo-Inspect - CNN surface defect classification into six defect types" /></a>
-  <a href="https://github.com/Sahil-Bulbule/CAR-RECOMMENDATION-WEB-APP"><img src="assets/card-car.svg" width="48%" alt="Car Recommendation Web App - budget and category based filtering in HTML, CSS and JavaScript" /></a>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<!-- ========================= 04 ANALYTICS ========================= -->
-<p align="center"><img src="assets/h-analytics.svg" width="100%" alt="04 - GitHub Analytics" /></p>
+<!-- ========================= 03 CONTRIBUTIONS & STREAK ========================= -->
+<p align="center"><img src="assets/h-analytics.svg" width="100%" alt="03 - Contributions and Streak" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Bulbule&show_icons=true&hide_border=false&border_color=0B3D2F&bg_color=111816&title_color=00E5A8&icon_color=7CFFD1&text_color=D5E2DC&ring_color=00E5A8&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats for Sahil-Bulbule" />
@@ -121,24 +103,9 @@ Most of my work so far is practical and end to end: a trained model, a clean int
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ========================= 05 EXPLORING ========================= -->
-<p align="center"><img src="assets/h-exploring.svg" width="100%" alt="05 - Currently Exploring" /></p>
-
-<p align="center"><img src="assets/exploring.svg" width="100%" alt="Currently exploring: Advanced RAG, LLM applications, LangGraph, Agentic AI, AI automation and production-ready AI systems" /></p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<!-- ========================= 06 EXPERIENCE & EDUCATION ========================= -->
-<p align="center"><img src="assets/h-education.svg" width="100%" alt="06 - Experience and Education" /></p>
-
-<p align="center"><img src="assets/timeline.svg" width="100%" alt="Education timeline: Diploma in Computer Technology at Priyadarshini Polytechnic Nagpur 2022 to 2025, then B.Tech in Computer Technology at YCCE Nagpur 2025 to 2028" /></p>
-<p align="center"><img src="assets/experience.svg" width="100%" alt="Python Development Internship at Cognifyz Technologies" /></p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<!-- ========================= 07 CONNECT ========================= -->
+<!-- ========================= 04 CONNECT ========================= -->
 <a name="connect"></a>
-<p align="center"><img src="assets/h-connect.svg" width="100%" alt="07 - Connect With Me" /></p>
+<p align="center"><img src="assets/h-connect.svg" width="100%" alt="04 - Connect With Me" /></p>
 
 <p align="center">
   <a href="https://github.com/Sahil-Bulbule"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="80" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -157,6 +124,14 @@ Most of my work so far is practical and end to end: a trained model, a clean int
 <!-- ========================= THANK YOU ========================= -->
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Thank you for visiting! Building Today. Innovating Tomorrow." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B0A,50:00A67C,100:00E5A8&height=120&section=footer&animation=twinkling" width="100%" alt="Animated emerald wave" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=7CFFD1&center=true&vCenter=true&width=700&height=40&lines=Let%27s+Connect%2C+Collaborate+%26+Build+Something+Amazing." alt="Let's Connect, Collaborate and Build Something Amazing." />
 </p>
 
 <p align="center">
