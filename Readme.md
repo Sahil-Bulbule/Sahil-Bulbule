@@ -17,8 +17,6 @@
 <a href="https://leetcode.com/u/Sahil-Bulbule/"><img src="https://img.shields.io/badge/LEETCODE-FF8A3D?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0612" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sahil-Bulbule"><img src="https://img.shields.io/badge/GITHUB-E6E1F0?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0612" alt="GitHub" /></a>
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/LOCATION-NAGPUR_INDIA-8B5CF6?style=flat-square&labelColor=0A0612" alt="Location" />&nbsp;
 <img src="https://img.shields.io/badge/STUDYING-B.TECH_COMPUTER_TECHNOLOGY-FF2E93?style=flat-square&labelColor=0A0612" alt="Studying" />&nbsp;
 <img src="https://img.shields.io/badge/FOCUS-GENAI_%2B_FULL_STACK-FF8A3D?style=flat-square&labelColor=0A0612" alt="Focus" />
