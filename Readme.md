@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0612,30:8B5CF6,65:FF2E93,100:FF8A3D&height=240&section=header&text=Sahil%20Bulbule&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20and%20GenAI%20Developer&descSize=20&descAlignY=60&animation=twinkling" alt="Sahil Bulbule" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0612,30:8B5CF6,65:FF2E93,100:FF8A3D&height=240&section=header&text=Sahil%20Bulbule&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20ML%20GenAI%20and%20Full%20Stack%20Developer&descSize=19&descAlignY=60&animation=twinkling" alt="Sahil Bulbule" width="100%" />
 
 <a href="https://github.com/Sahil-Bulbule">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=FF5CA8&center=true&vCenter=true&width=850&height=50&lines=%24+whoami;Sahil+Bulbule+-+AI+%2F+ML+%26+GenAI+Developer;%24+cat+skills.txt;Python+%2C+LLMs+%2C+RAG+%2C+Agentic+AI+%2C+Full+Stack;%24+git+commit+-m+%22keep+building%22" alt="Typing animation" />
