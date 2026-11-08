@@ -287,13 +287,6 @@ class Sahil:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0A0612" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Sahil-Bulbule?style=flat-square&color=FF2E93&labelColor=0A0612" alt="Followers" />
-
-<br/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:8B5CF6,100:38BDF8&height=70&section=footer" width="100%" alt="" />
