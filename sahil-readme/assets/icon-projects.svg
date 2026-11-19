@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <style>
+    .r { animation: lift 1.8s ease-in-out infinite; }
+    @keyframes lift { 0%,100% { transform: translateY(2px); } 50% { transform: translateY(-3px); } }
+    .f { transform-box: fill-box; transform-origin: 50% 0%; animation: fl .3s ease-in-out infinite alternate; }
+    @keyframes fl { from { transform: scaleY(.7); } to { transform: scaleY(1.25); } }
+    .s { animation: tw 1.6s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity: .2; } 50% { opacity: 1; } }
+  </style>
+  <circle class="s" cx="10" cy="14" r="1.5" fill="#fff"/><circle class="s" cx="54" cy="20" r="1.5" fill="#fff" style="animation-delay:.6s"/><circle class="s" cx="12" cy="48" r="1.5" fill="#fff" style="animation-delay:1s"/>
+  <g class="r">
+    <path d="M32 6 q12 10 8 30 h-16 q-4 -20 8 -30z" fill="#e6edf3"/>
+    <circle cx="32" cy="22" r="4.5" fill="#39d353"/>
+    <path d="M24 30 l-8 12 l10 -4z M40 30 l8 12 l-10 -4z" fill="#39d353"/>
+    <path class="f" d="M28 38 h8 l-4 14z" fill="#f2b84b"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <style>
+    .m { animation: hop 1.6s ease-in-out infinite; }
+    @keyframes hop { 0%,100% { transform: translateY(0); } 40% { transform: translateY(-5px); } 60% { transform: translateY(0); } }
+    .n { transform-box: fill-box; transform-origin: 50% 50%; animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.3); } }
+  </style>
+  <g class="m">
+    <rect x="8" y="18" width="48" height="32" rx="4" fill="#e6edf3"/>
+    <path d="M8 22 l24 17 l24 -17" fill="none" stroke="#0d1117" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <circle class="n" cx="54" cy="16" r="6" fill="#39d353"/>
+</svg>
